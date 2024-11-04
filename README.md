@@ -1,4 +1,5 @@
 PHP Music Application 🎶
+
 Welcome to the PHP Music Application! This project is designed as a web-based platform where users can explore and play music, manage their accounts, and organize playlists. It combines robust backend features with a clean, user-friendly interface, supported by DevOps tools for efficient and high-quality deployment.
 
 Project Overview
