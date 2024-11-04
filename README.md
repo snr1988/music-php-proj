@@ -24,13 +24,13 @@ This project emphasizes not only development but also deployment automation and 
 
 ## Project Structure
 
-css/: Contains stylesheets for a polished user interface.
-database/: Database configurations and schema for MySQL.
-images/: Image assets for a visually rich experience.
-js/: JavaScript files to enhance interactivity.
-phpmailer/: Library for managing email notifications.
-songs/: Directory for the song files accessible within the application.
-webfonts/: Fonts for consistent typography and branding.
+* css/: Contains stylesheets for a polished user interface.
+* database/: Database configurations and schema for MySQL.
+* images/: Image assets for a visually rich experience.
+* js/: JavaScript files to enhance interactivity.
+* phpmailer/: Library for managing email notifications.
+* songs/: Directory for the song files accessible within the application.
+* webfonts/: Fonts for consistent typography and branding.
 
 ## Project Highlights
 1. Docker for Containerization 🐳
