@@ -51,3 +51,15 @@ Detect potential bugs and vulnerabilities.
 Improve maintainability by identifying code smells.
 Promote clean code practices by setting quality gates before deployment.
 By maintaining high code quality, this application remains secure, efficient, and scalable.
+
+# How to Run the Project
+To run this project locally, follow these steps:
+
+Clone the Repository: git clone https://github.com/dhulkii/music-php-proj.git
+* Dockerize the Application: Ensure Docker is installed and run the Docker container to start the application in an isolated environment.
+
+* Run Jenkins Pipeline: Jenkins will automate the build and deploy processes. You can also manually run the pipeline to observe the automated CI/CD flow.
+
+* Check Code Quality with SonarQube: Before each deployment, verify code quality through SonarQube analysis, either by running it locally or within the Jenkins pipeline.
+
+
